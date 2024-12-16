@@ -1,0 +1,12 @@
+﻿  ĐỒ HỌA LTDT 3.cpp
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,81): warning C4244:         with
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,81): warning C4244:         [
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,81): warning C4244:             T=float
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,81): warning C4244:         ]
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,60): warning C4244:         with
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,60): warning C4244:         [
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,60): warning C4244:             T=float
+C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3\ĐỒ HỌA LTDT 3.cpp(253,60): warning C4244:         ]
+  ĐỒ HỌA LTDT 3.vcxproj -> C:\Users\kiet\Documents\ĐỒ HỌA LTDT 3\x64\Debug\ĐỒ HỌA LTDT 3.exe
